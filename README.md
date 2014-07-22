@@ -1,4 +1,4 @@
-salary-query
-============
+students-info-collection
+========================
 
-salary-query
+students-info-collection
